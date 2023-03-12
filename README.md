@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> A multiple linear regression analysis to predict the demand of a Bike share service in the US and also figure out the factors impacting the demand.
 
 
 ## Table of Contents
